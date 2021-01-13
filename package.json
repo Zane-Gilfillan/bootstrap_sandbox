@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_sandbox",
+  "version": "1.0.0",
+  "description": "learning the bootstrap framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zane-Gilfillan/bootstrap_sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zane-Gilfillan/bootstrap_sandbox/issues"
+  },
+  "homepage": "https://github.com/Zane-Gilfillan/bootstrap_sandbox#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}

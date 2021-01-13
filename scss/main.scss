@@ -1,4 +1,26 @@
-//variables
-$secondary: #f4f4f4;
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
 
-@import '../node_modules/bootstrap/scss/bootstrap.scss'
+//variables
+$secondary: #f0f0f0;
+$primary: #422083;
+$border-radius: 0;
+$border-radius-sm: 0;
+$border-radius-lg: 0;
+
+
+html, body {
+    height: 100%;
+    background-color: $secondary;
+}
+
+.form-login {
+    width: 100%; 
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.btn {
+    width: 200px;
+    background-color: $primary;
+}

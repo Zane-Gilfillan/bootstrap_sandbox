@@ -5,7 +5,7 @@ $secondary: #f0f0f0;
 $primary: #422083;
 
 
-
+//login build
 html, body {
     height: 100%;
     background-color: $secondary;
@@ -18,7 +18,11 @@ html, body {
     margin: auto;
 }
 
-.btn {
-    width: 200px;
-    background-color: $primary;
+
+
+//grid system
+.container {
+    img {
+        height: 500px;
+    }
 }
